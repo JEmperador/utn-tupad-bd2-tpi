@@ -1,11 +1,3 @@
-# TPI - Bases de Datos I
-## Sistema de Gestión Hospitalaria
-
-**Tecnicatura Universitaria en Programación — UTN**  
-Autor: Javier Emperador
-
----
-
 ## Estructura del proyecto
 
 ```
